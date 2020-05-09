@@ -5,6 +5,7 @@
   "main": "webpack.config.js",
   "scripts": {
     "watch": "parallel-webpack --watch -- --mode=development",
+    "build:dev": "parallel-webpack -- --mode=development",
     "build:prod": "parallel-webpack -- --mode=production"
   },
   "repository": {
