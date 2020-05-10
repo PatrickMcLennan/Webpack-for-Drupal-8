@@ -52,10 +52,10 @@ Still a work in progress:
 Place the configuration files in this repo in the root of your project, and follow the naming convention above.
 
 - Theme example:
-  - ![A Theme example](https://imgur.com/nBtozbJ)
+  ![Imgur](https://i.imgur.com/v5Lh1VL.png)
   - We have our `custom/new_theme` directory, and inside, a `src/new_theme.js`, with `new_theme.js` being our entry point for `new_theme`.
 - Module example:
-  - ![A Module example](https://imgur.com/rStf8HY)
+  ![Imgur](https://i.imgur.com/WjAipGk.png)
   - We have our `custom/new_module` directory, and inside, a `src/new_module.js`, with `new_module.js` being our entry for for `new_module`.
 
 So long as you follow this convention, you can do this for as many modules or themes as you'd like. No manual configuration within Webpack is necessary.
